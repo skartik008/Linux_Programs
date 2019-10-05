@@ -11,7 +11,6 @@
 */
 
 int globvar = 6;
-char buf[] ="a write to stdout\n";
 
 int main()
 {
